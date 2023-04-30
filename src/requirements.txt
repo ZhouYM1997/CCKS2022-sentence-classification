@@ -1,0 +1,8 @@
+pandas==1.4.3
+torch==1.10.0
+numpy==1.21.4
+scikit-learn==1.1.1
+scipy==1.8.1
+transformers==4.20.1
+argparse==1.1
+conda==4.10.3

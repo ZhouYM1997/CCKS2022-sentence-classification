@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89fafeaf-2ed7-429b-a054-3aa662fa57c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/CCKS2022.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AttackTraining.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyDataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NEZHA/NEZHA模型使用说明.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NEZHA/bert_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NEZHA/configuration_nezha.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NEZHA/file_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NEZHA/modeling_nezha.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NEZHA/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NEZHA/vocab.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NLP_Utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TinyBertTrain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/数据集说明" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/BertV2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/BiGRU.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/MyBert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/MyTransformer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/output/result_model_nezha_entities_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/output/result_model_nezha_entities_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/output/result_model_nezha_entities_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/output/result_model_statistics_nezha_6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/output/result_model_statistics_nezha_7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/output/result_model_statistics_nezha_8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/output/result_model_statistics_nezha_9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/output/result_model_statistics_nezha_all.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/output/result_model_statistics_xlnet_0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pretrain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tf-idf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/voting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/执行说明文档.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/执行说明文档.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CtKmPFDkp1iV6G2J3T0Sisb3S2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Users/zhouYM/PycharmProjects/CCKS2022/src/data&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Users\zhouYM\PycharmProjects\CCKS2022\src\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="TinyBertTrain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CCKS2022" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/TinyBertTrain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manhattan_distance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CCKS2022" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\Users\zhouYM\PycharmProjects\CCKS2022\manhattan_distance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pyramid_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CCKS2022" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyramid_string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CCKS2022" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CCKS2022" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.TinyBertTrain" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.pyramid_string" />
+        <item itemvalue="Python.manhattan_distance" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89fafeaf-2ed7-429b-a054-3aa662fa57c6" name="Changes" comment="" />
+      <created>1659616602712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659616602712</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
