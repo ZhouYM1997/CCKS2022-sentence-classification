@@ -2,46 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89fafeaf-2ed7-429b-a054-3aa662fa57c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/CCKS2022.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AttackTraining.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyDataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NEZHA/NEZHA模型使用说明.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NEZHA/bert_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NEZHA/configuration_nezha.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NEZHA/file_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NEZHA/modeling_nezha.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NEZHA/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NEZHA/vocab.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NLP_Utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TinyBertTrain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/数据集说明" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/BertV2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/BiGRU.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/MyBert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/MyTransformer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/output/result_model_nezha_entities_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/output/result_model_nezha_entities_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/output/result_model_nezha_entities_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/output/result_model_statistics_nezha_6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/output/result_model_statistics_nezha_7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/output/result_model_statistics_nezha_8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/output/result_model_statistics_nezha_9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/output/result_model_statistics_nezha_all.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/output/result_model_statistics_xlnet_0.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pretrain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tf-idf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/voting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/执行说明文档.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/执行说明文档.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NEZHA/NEZHA模型使用说明.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/NEZHA/NEZHA模型使用说明.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
